@@ -1,0 +1,16 @@
+nav ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    gap: 2em;
+    padding: 0;
+}
+
+nav a {
+    color: #ffffff;
+    text-decoration: none;
+}
+header {
+    background-color: #0b0b0b;
+    padding: 1em 0;
+}
